@@ -5,7 +5,7 @@
 
 .sidebar{
     color: white;
-    background-color: beige;
+    background-color: wheat;
     width: 20vw;
     height: 50vw;
     font-size: larger;
@@ -28,7 +28,7 @@
 }
 
 .content{
-    background-color: gainsboro;
+    background-color: rgb(243, 241, 241);
     width: 80vw;
     height: 50vw;
 }
