@@ -1,22 +1,31 @@
 *{
-    padding: 10px;
+    padding: 0%;
+    margin: 0%;
 }
 
 .sidebar{
     color: white;
     background-color: beige;
-    height: 30px;
-    width: 30px;
+    width: 20vw;
+    height: 50vw;
+    font-size: larger;
+    
+}
+
+.sidebar nav{
+    padding: 5%;
 }
 
 .sidebar nav li{
     text-decoration: none;
+    color: white;
+    padding: 20%;
 }
 
 .content{
-    background-color: white;
-    height: 30px;
-    width: 30px;
+    background-color: gainsboro;
+    width: 80vw;
+    height: 50vw;
 }
 
 .container{
