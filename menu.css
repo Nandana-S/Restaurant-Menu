@@ -17,9 +17,14 @@
 }
 
 .sidebar nav li{
-    text-decoration: none;
-    color: white;
     padding: 20%;
+    font-weight: bold;
+    font-family: Calibri;
+}
+
+.sidebar nav li a{
+    text-decoration: none;
+    color: brown;
 }
 
 .content{
